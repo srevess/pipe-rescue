@@ -1,8 +1,8 @@
 # Pipe-Rescue
 Assignment for AI game intern - Bombayplay
 # Playable Game
-**itch.io Link:** https://srevess.itch.io/pipe-rescue
 
+**itch.io Link:** https://srevess.itch.io/pipe-rescue
 **GitHub Source:** https://github.com/srevess/pipe-rescue
 **Cocos Creator: ** https://drive.google.com/drive/folders/1KiBt1huKakNt2tirLbYwpgXO8fBnDdMB?usp=drive_link
 ---
